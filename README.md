@@ -4,6 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingwithyahya&label=Profile%20views&color=0e75b6&style=flat" alt="codingwithyahya" /> </p>
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+<br>
+
 😎 Je suis étudiant en informatique avec une passion pour le développement de logiciels et les réseaux. Je suis compétent en programmation, en conception de logiciels, ainsi qu'en gestion et en configuration de réseaux.<br>⚡ Je suis un apprenant rapide qui reste à jour avec les dernières tendances et technologies en matière de développement et de réseaux. Je suis également un joueur d'équipe et un contributeur à des projets open-source. <br>📧 N'hésitez pas à me contacter par e-mail ou à me trouver sur LinkedIn.
 
 - 📫 How to reach me **quazbari.yahya@gmail.com Or LinkedIn**
